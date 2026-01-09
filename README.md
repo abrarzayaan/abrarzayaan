@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Md. Shah Abrar Zayaan</h1><br>
+<h1 align="center">Hi 👋, I'm Md. Shah Abrar Zahin</h1><br>
 <h3 align="center">SQL Data Engineer with Expertise in Query Optimization || Aspiring Data-Driven Strategist || Python Backend Enthusiast with a Focus on Data & Backend Systems</h3> <br><br>
 
 🔭 I’m currently working on SQL Database with Expertise in Query Optimization.<br>
