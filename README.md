@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,29,38&height=200&section=header&text=Md.%20Shah%20Abrar%20Zahin&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Systems%20%26%20Backend%20Solution%20Architect&descFontSize=18&descAlignY=60&descAlign=50" width="100%" />
+<h1>👋 Hi, I'm <span style="color: #00F2FE;">Md. Shah Abrar Zahin</span></h1>
+</div>
 
 <!-- Animated Typing Subtitle -->
 <p align="center">
