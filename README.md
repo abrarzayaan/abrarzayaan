@@ -11,7 +11,7 @@
 <!-- Quick Action Badges -->
 [![Email](https://img.shields.io/badge/Email-abrar.bauet%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrar.bauet@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrarzayaan)
 [![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-00C853?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -106,11 +106,25 @@ flowchart LR
 <div align="center">
 
 ```
-┌───────────────────┬───────────────────┬───────────────────┬────────────────────────────┐
-│  ⚡ 45% Drop      │  📦 1M+ Records  │  🛡️ 99.9% Uptime  │  🔒 0 Overselling         │
-│  In Query Latency │  Processed Daily  │  Enterprise SLAs  │  Atomic Row Locks          │
-└───────────────────┴───────────────────┴───────────────────┴────────────────────────────┘
+┌───────────────────┬───────────────────┬───────────────────┬───────────────────┐
+│  ⚡ 45% Drop       │  📦 1M+ Records   │  🛡️ 99.9% Uptime  │  🔒 0 Overselling │
+│  In Query Latency │  Processed Daily  │  Enterprise SLAs  │  Atomic Row Locks │
+└───────────────────┴───────────────────┴───────────────────┴───────────────────┘
 ```
+
+</div>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abrarzayaan/abrarzayaan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abrarzayaan/abrarzayaan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abrarzayaan/abrarzayaan/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -124,12 +138,6 @@ Have an upcoming platform, database bottlenecks, or manual processes you want to
 
 [![Reach Out via Email](https://img.shields.io/badge/Discuss_A_Project-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrar.bauet@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Schedule_A_Call-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/github-contribution-grid-snake.svg">
-</picture>
 
 <br/><br/>
 
