@@ -107,8 +107,8 @@ flowchart LR
 
 ```
 ┌───────────────────┬───────────────────┬───────────────────┬────────────────────────────┐
-│  ⚡ 45% Drop       │  📦 1M+ Records   │  🛡️ 99.9% Uptime  │  🔒 0 Overselling │
-│  In Query Latency │  Processed Daily  │  Enterprise SLAs  │  Atomic Row Locks   │
+│  ⚡ 45% Drop       │  📦 1M+ Records   │  🛡️ 99.9% Uptime  │  🔒 0 Overselling       │
+│  In Query Latency │  Processed Daily  │  Enterprise SLAs  │  Atomic Row Locks          │
 └───────────────────┴───────────────────┴───────────────────┴────────────────────────────┘
 ```
 
