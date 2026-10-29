@@ -107,7 +107,7 @@ flowchart LR
 
 ```
 ┌───────────────────┬───────────────────┬───────────────────┬────────────────────────────┐
-│  ⚡ 45% Drop       │  📦 1M+ Records   │  🛡️ 99.9% Uptime  │  🔒 0 Overselling       │
+│  ⚡ 45% Drop      │  📦 1M+ Records  │  🛡️ 99.9% Uptime  │  🔒 0 Overselling         │
 │  In Query Latency │  Processed Daily  │  Enterprise SLAs  │  Atomic Row Locks          │
 └───────────────────┴───────────────────┴───────────────────┴────────────────────────────┘
 ```
@@ -124,6 +124,12 @@ Have an upcoming platform, database bottlenecks, or manual processes you want to
 
 [![Reach Out via Email](https://img.shields.io/badge/Discuss_A_Project-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrar.bauet@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Schedule_A_Call-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br/><br/>
 
