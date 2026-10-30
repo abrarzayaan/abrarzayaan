@@ -5,7 +5,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://github.com/abrarzayaan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=I+don't+just+write+backend+code.;I+architect+the+systems+that+help+a+business+grow.;Business+Backend+Architect+%C2%B7+Data-Driven+Systems;99.9%25+Uptime+%C2%B7+1M%2B+Daily+Records+%C2%B7+300%2B+Queries+Refactored" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=I+don't+just+write+backend+code.;I+architect+the+systems+that+help+a+business+grow.;Business+Backend+Architect+%C2%B7+Data-Driven+Systems; "Typing SVG" />
 </a>
 
 <br/>
